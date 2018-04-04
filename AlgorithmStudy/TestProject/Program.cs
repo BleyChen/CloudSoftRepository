@@ -4,16 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AlgorithmStudy
+namespace TestProject
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //code change for main
-
-            //code in dev
-
+            string str = "";
+            var mlength = str.Length;
         }
     }
 }
